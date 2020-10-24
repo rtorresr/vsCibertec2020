@@ -12,11 +12,14 @@ namespace App.Data
     {
         public ChinookModel() : base("name=cnxChinookDB")
         {
-
+            //this.Configuration.LazyLoadingEnabled = false;
+            //this.Configuration.ProxyCreationEnabled = false;
         }
 
         public virtual DbSet<Artist> Artist { get; set; }
 
         public virtual DbSet<Customer> Customer { get; set; }
+
+        public virtual DbSet<Album> Album { get; set; }
     }
 }

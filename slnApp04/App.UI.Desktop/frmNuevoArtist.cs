@@ -29,7 +29,11 @@ namespace App.UI.Desktop
         {
             if (this.IsEdit())
             {
-                tbNombre.Text = this.artist.Name;
+                var entidad = new ArtistDA().Get(this.artist.ArtistId);
+                if (entidad != null)
+                {
+                    tbNombre.Text = entidad.Name;
+                }                
             }
         }
 

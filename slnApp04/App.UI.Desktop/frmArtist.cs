@@ -42,6 +42,11 @@ namespace App.UI.Desktop
             form.artist = artista;
             
             form.Show();
-        }       
+        }
+
+        private void frmArtist_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

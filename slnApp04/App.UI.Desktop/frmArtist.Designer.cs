@@ -94,6 +94,7 @@
             this.Controls.Add(this.dvgListado);
             this.Name = "frmArtist";
             this.Text = "frmArtist";
+            this.Load += new System.EventHandler(this.frmArtist_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dvgListado)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
