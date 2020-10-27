@@ -29,7 +29,8 @@ namespace App.UI.Desktop
         {
             if (this.IsEdit())
             {
-                var entidad = new ArtistDA().Get(this.artist.ArtistId);
+                //var entidad = new ArtistDA().Get(this.artist.ArtistId);
+                var entidad = new ArtistDA().GetAll(this.artist.ArtistId);
                 if (entidad != null)
                 {
                     tbNombre.Text = entidad.Name;

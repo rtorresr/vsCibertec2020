@@ -1,6 +1,7 @@
 ﻿using App.Entities;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.IO;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
@@ -26,6 +27,11 @@ namespace App.Data
         public Artist Get(int id)
         {
             return _context.Artist.FirstOrDefault(x => x.ArtistId == id);
+        }
+
+        public Artist GetAll(int id)
+        {
+            return _context.Artist.Include(x => x.Album).Where(y => y.ArtistId == id).FirstOrDefault();
         }
 
         public List<Artist> Gets(string filterName)

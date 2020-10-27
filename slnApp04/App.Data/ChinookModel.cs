@@ -12,8 +12,8 @@ namespace App.Data
     {
         public ChinookModel() : base("name=cnxChinookDB")
         {
-            //this.Configuration.LazyLoadingEnabled = false;
-            //this.Configuration.ProxyCreationEnabled = false;
+            this.Configuration.LazyLoadingEnabled = false;
+            this.Configuration.ProxyCreationEnabled = false;
         }
 
         public virtual DbSet<Artist> Artist { get; set; }

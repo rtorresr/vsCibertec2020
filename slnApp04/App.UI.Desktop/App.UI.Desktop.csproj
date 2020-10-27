@@ -80,6 +80,12 @@
     <Compile Include="frmNuevoCustomer.Designer.cs">
       <DependentUpon>frmNuevoCustomer.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmTrack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrack.Designer.cs">
+      <DependentUpon>frmTrack.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmArtist.resx">
@@ -93,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmNuevoCustomer.resx">
       <DependentUpon>frmNuevoCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrack.resx">
+      <DependentUpon>frmTrack.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
