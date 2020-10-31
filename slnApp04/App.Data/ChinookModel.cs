@@ -21,5 +21,7 @@ namespace App.Data
         public virtual DbSet<Customer> Customer { get; set; }
 
         public virtual DbSet<Album> Album { get; set; }
+
+        public virtual DbSet<Track> Track { get; set; }
     }
 }

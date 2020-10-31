@@ -17,12 +17,12 @@ namespace App.Data
             _context = new ChinookModel();
         }
 
-        public IEnumerable<TrackConsulta> GetTrackByName(string name)
+        public IEnumerable<Track> GetTrackByName(string name)
         {
             name = !string.IsNullOrWhiteSpace(name) ? $"%{name}%" : "%";
 
             return _context.Database
-           .SqlQuery<TrackConsulta>("usp_GetTracks @artistName",
+           .SqlQuery<Track>("usp_GetTracks @artistName",
            new SqlParameter("@artistName", name)
            ).ToList();
 

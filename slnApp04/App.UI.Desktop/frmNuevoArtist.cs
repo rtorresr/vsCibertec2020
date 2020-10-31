@@ -1,4 +1,5 @@
 ﻿using App.Data;
+using App.Data.Repositories;
 using App.Entities;
 using System;
 using System.Collections.Generic;
@@ -17,7 +18,7 @@ namespace App.UI.Desktop
         public Artist artist { get; set; }
         public frmNuevoArtist()
         {            
-            InitializeComponent();            
+            InitializeComponent();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -30,7 +31,9 @@ namespace App.UI.Desktop
             if (this.IsEdit())
             {
                 //var entidad = new ArtistDA().Get(this.artist.ArtistId);
-                var entidad = new ArtistDA().GetAll(this.artist.ArtistId);
+                //var entidad = new ArtistDA().GetAll(this.artist.ArtistId);
+                var uw = new AppUnitOfWork();
+                var entidad = uw.ArtistRepository.GetById(this.artist.ArtistId);
                 if (entidad != null)
                 {
                     tbNombre.Text = entidad.Name;
@@ -43,17 +46,17 @@ namespace App.UI.Desktop
             var artist = new Artist();
             artist.Name = tbNombre.Text;
 
-            var da = new ArtistDA();
-
+            //var da = new ArtistDA();
+            var uw = new AppUnitOfWork();
             if (this.IsEdit())
             {
                 artist.ArtistId = this.artist.ArtistId;
-                da.Update(artist);
+                uw.ArtistRepository.Update(artist);
             } else
             {
-                da.Insert(artist);
+                uw.ArtistRepository.Add(artist);
             }
-            
+            uw.Complete();
             this.Close();
         }
 

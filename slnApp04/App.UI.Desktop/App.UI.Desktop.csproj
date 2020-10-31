@@ -135,6 +135,10 @@
       <Project>{3A533CE7-7295-4392-8DF1-E471A6C4F49A}</Project>
       <Name>App.Entities</Name>
     </ProjectReference>
+    <ProjectReference Include="..\App.Repository.Interface\App.Repository.Interface.csproj">
+      <Project>{05FA0E4C-B3E6-4E3A-AB9D-BC23ED8C6034}</Project>
+      <Name>App.Repository.Interface</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

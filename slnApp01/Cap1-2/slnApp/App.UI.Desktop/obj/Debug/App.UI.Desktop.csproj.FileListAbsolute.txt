@@ -1,0 +1,15 @@
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe.config
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\bin\Debug\App.UI.Desktop.pdb
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.Properties.Resources.resources
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.exe
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.pdb
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\bin\Debug\App.Entities.Base.dll
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\bin\Debug\log4net.dll
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\bin\Debug\App.Entities.Base.pdb
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\bin\Debug\log4net.xml
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CopyComplete
+C:\Users\Adminfoco\source\repos\Cap1-2\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.Form1.resources

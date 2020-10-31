@@ -1,4 +1,5 @@
 ﻿using App.Data;
+using App.Data.Repositories;
 using App.Entities;
 using System;
 using System.Collections.Generic;
@@ -21,10 +22,18 @@ namespace App.UI.Desktop
 
         private void btnConsultar_Click(object sender, EventArgs e)
         {
-            var da = new ArtistDA();
-            //dvgListado.DataSource = da.
-            lbCant.Text = da.Count().ToString();
-            dvgListado.DataSource = da.Gets(tbFilterName.Text);
+            // DIRECTO
+            //var da = new ArtistDA();
+            ////dvgListado.DataSource = da.
+            //lbCant.Text = da.Count().ToString();
+            //dvgListado.DataSource = da.Gets(tbFilterName.Text);
+            //dvgListado.Refresh();
+
+            //UNIT OF WORK
+            var uw = new AppUnitOfWork();
+            var listado = uw.ArtistRepository.GetAll(f => f.Name.Contains(tbFilterName.Text), o => o.OrderByDescending( x => x.Name).OrderBy(x => x.ArtistId));
+            lbCant.Text = listado.Count().ToString();
+            dvgListado.DataSource = listado;
             dvgListado.Refresh();
         }
 
