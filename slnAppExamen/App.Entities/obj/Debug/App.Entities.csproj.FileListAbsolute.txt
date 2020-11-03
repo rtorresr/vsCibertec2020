@@ -1,0 +1,15 @@
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\App.Entities.dll.config
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\App.Entities.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\App.Entities.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\Dapper.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\Dapper.xml
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\obj\Debug\App.Entities.csprojAssemblyReference.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\obj\Debug\App.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\obj\Debug\App.Entities.csproj.CopyComplete
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\obj\Debug\App.Entities.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Entities\obj\Debug\App.Entities.pdb

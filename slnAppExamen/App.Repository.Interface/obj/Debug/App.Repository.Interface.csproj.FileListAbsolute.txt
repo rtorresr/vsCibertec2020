@@ -1,0 +1,17 @@
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\App.Repository.Interface.dll.config
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\App.Repository.Interface.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\App.Repository.Interface.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\App.Entities.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\Dapper.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\EntityFramework.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\App.Entities.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\App.Entities.dll.config
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\Dapper.xml
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\EntityFramework.xml
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\obj\Debug\App.Repository.Interface.csprojAssemblyReference.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\obj\Debug\App.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\obj\Debug\App.Repository.Interface.csproj.CopyComplete
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\obj\Debug\App.Repository.Interface.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnAppExamen\App.Repository.Interface\obj\Debug\App.Repository.Interface.pdb
