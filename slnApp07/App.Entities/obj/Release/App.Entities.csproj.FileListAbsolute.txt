@@ -1,0 +1,6 @@
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Entities\bin\Release\App.Entities.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Entities\bin\Release\App.Entities.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Entities\obj\Release\App.Entities.csprojAssemblyReference.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Entities\obj\Release\App.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Entities\obj\Release\App.Entities.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Entities\obj\Release\App.Entities.pdb

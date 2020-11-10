@@ -1,0 +1,17 @@
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Services.WCFLib.dll.config
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Services.WCFLib.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Services.WCFLib.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Entities.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Entities.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\obj\Debug\App.Services.WCFLib.csprojAssemblyReference.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\obj\Debug\App.Services.WCFLib.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\obj\Debug\App.Services.WCFLib.csproj.CopyComplete
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\obj\Debug\App.Services.WCFLib.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\obj\Debug\App.Services.WCFLib.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Data.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Repository.Interface.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\EntityFramework.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Data.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Data.dll.config
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\App.Repository.Interface.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Services.WCFLib\bin\Debug\EntityFramework.xml

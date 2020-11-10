@@ -1,0 +1,7 @@
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Service.WCFApp\bin\App.Service.WCFApp.dll.config
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Service.WCFApp\bin\App.Service.WCFApp.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Service.WCFApp\bin\App.Service.WCFApp.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Service.WCFApp\obj\Debug\App.Service.WCFApp.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Service.WCFApp\obj\Debug\App.Service.WCFApp.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Service.WCFApp\obj\Debug\App.Service.WCFApp.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Service.WCFApp\obj\Debug\App.Service.WCFApp.csprojAssemblyReference.cache

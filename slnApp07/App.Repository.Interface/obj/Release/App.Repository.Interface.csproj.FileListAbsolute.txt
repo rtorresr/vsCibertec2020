@@ -1,0 +1,9 @@
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\bin\Release\App.Repository.Interface.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\bin\Release\App.Repository.Interface.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\bin\Release\App.Entities.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\bin\Release\App.Entities.pdb
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\obj\Release\App.Repository.Interface.csprojAssemblyReference.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\obj\Release\App.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\obj\Release\App.Repository.Interface.csproj.CopyComplete
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\obj\Release\App.Repository.Interface.dll
+C:\Users\Adminfoco\source\repos\vsCibertec2020\slnApp07\App.Repository.Interface\obj\Release\App.Repository.Interface.pdb
